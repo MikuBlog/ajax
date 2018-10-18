@@ -12,7 +12,7 @@
 
 ```
 <script src="jquery-3.3.1.development.js"></script>
-<script src="page.main.min.js"></script>
+<script src="main.js"></script>
 ```
 
 <br/>
